@@ -1,8 +1,5 @@
 
-# GALLERY CRUD APP 🙌
-
-As asked in the question the gallery crud MERN app is made fulfulling
-all the requirements of entry, immediate and pro level.
+# GALLERY CRUD APP
 
 # TECH STACK USED 
 backend: Node.js, Express.js
