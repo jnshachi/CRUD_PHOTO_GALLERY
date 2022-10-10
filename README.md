@@ -15,14 +15,6 @@ Code Editor:Vs Code
 
 Hosted on: Heroku
 
-# LINKS
-
-Hosted Link : https://photogallerypg-mern.herokuapp.com/
-
-GitHUb Repo Link : https://github.com/gautam351/photoGalleryAPP
-
-Youtube Video Link  : https://www.youtube.com/watch?v=x9cttuAqKCs
-
 
 # DEPLOYEMENT INSTRUCTIONS:
 1: Clone git repo and run npm init to get all dependencies
@@ -30,7 +22,7 @@ Youtube Video Link  : https://www.youtube.com/watch?v=x9cttuAqKCs
 2: Create A Database on MondoDb Atlas / Cloud and in the backend/Database.js file 
 change the Database URI with the one you get from ur MongoDB
 
-3: create a accound on herokuapp and download heroku cli
+3: create a account on herokuapp and download heroku cli
 
 4: login into heroku create a project and then push the code into heroku master
 
