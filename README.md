@@ -1,6 +1,6 @@
 
 # GALLERY CRUD APP
-Hosted Link : https://photogallerypg-mern.herokuapp.com/
+Hosted Link : https://fast-lake-47633.herokuapp.com/
 
 # TECH STACK USED 
 backend: Node.js, Express.js
